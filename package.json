@@ -1,0 +1,23 @@
+{
+  "name": "czat",
+  "version": "1.0.0",
+  "description": "czat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "czat",
+    "nodejs",
+    "socet.io"
+  ],
+  "author": "Aga",
+  "license": "ISC",
+  "dependencies": {
+    "jwt-simple": "^0.5.1",
+    "loadash": "0.0.1",
+    "lodash": "^4.17.4",
+    "socket.io": "^1.7.3",
+    "socket.io-client": "^1.7.3"
+  }
+}
