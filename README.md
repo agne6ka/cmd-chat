@@ -1,7 +1,7 @@
-#Warsaw JS Workshop
+# Warsaw JS Workshop
 
-####WHAT IS ABOUT
-######Simple chat in console created using the:
+#### WHAT IS ABOUT
+###### Simple chat in console created using the:
 - node.js
 - ES6 syntax
 - Lodash
@@ -11,6 +11,6 @@
 - Database
 - Simple pass validation
 
-####COMMANDS:
+#### COMMANDS:
 `npm start server - start server`
 `npm start client - start client`
